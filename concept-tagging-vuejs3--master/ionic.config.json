@@ -1,0 +1,7 @@
+{
+    "name": "concept_tagging",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "vue"
+}
